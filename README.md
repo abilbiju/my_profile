@@ -19,3 +19,4 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="45" height="45"/>
 </p>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
